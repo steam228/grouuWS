@@ -37,7 +37,7 @@ void loop() {
 }
 
 void calib() {
-  Serial.println ("calibraMAX");
+  Serial.println ("calibraMIN");
   delay(1000);
   for (int i = 0; i < nTeste; i++) {
 
@@ -52,7 +52,7 @@ void calib() {
     delay(10);
   }
   delay(1000);
-  Serial.println ("calibraMIN");
+  Serial.println ("calibraMAX");
   delay(1000);
 
   for (int j = 0; j < nTeste; j++) {

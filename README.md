@@ -8,18 +8,18 @@
 . git?
 
 https://git-scm.com/
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 git mantra:
 
+```
 git pull
 git add .
 git status
 git commit -m "nome"
 git push
-
-
+```
 
 
 . What is Arduino?
